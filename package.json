@@ -1,0 +1,11 @@
+{
+  "name": "upload-package-learn",
+  "version": "1.0.0",
+  "description": "\"This is a demo package. Author is trying to learn how to publish packages on npm.:\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deepak Aggarwal",
+  "license": "ISC"
+}
